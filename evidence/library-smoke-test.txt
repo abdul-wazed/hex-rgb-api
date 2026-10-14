@@ -1,0 +1,8 @@
+PASS #FF0000 {"r":255,"g":0,"b":0}
+PASS 00aAfF {"r":0,"g":170,"b":255}
+PASS 000000 {"r":0,"g":0,"b":0}
+PASS #FFFFFF {"r":255,"g":255,"b":255}
+PASS invalid #FFF
+PASS invalid #GG0000
+PASS invalid null
+7 library smoke checks passed (Node assert; not Mocha).

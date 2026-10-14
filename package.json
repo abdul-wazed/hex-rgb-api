@@ -1,0 +1,1 @@
+{"name":"hex-rgb-api","version":"1.0.0","private":true,"description":"Hex to RGB Express API with unit and integration tests","main":"src/server.js","scripts":{"start":"node src/server.js","test":"mocha 'test/**/*.test.js' --reporter spec"},"dependencies":{"express":"^4.21.2"},"devDependencies":{"chai":"^4.5.0","mocha":"^11.0.0","supertest":"^7.0.0"}}
